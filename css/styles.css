@@ -5,11 +5,14 @@
 
 .body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    margin: auto;
 }
 
 .img {
-    width: 50%;
+    width: 20%;
     float: left;
+    margin: auto;
 }
 
 .attention {
