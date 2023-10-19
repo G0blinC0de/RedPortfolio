@@ -6,3 +6,13 @@
 .body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.img {
+    width: 50%;
+    float: left;
+}
+
+.attention {
+    font-weight: bold;
+    font-style: normal;
+}
