@@ -1,27 +1,22 @@
-# _{Application Name}_
+# _Red Portfolio_
 
-#### By _**{List of contributors}**_
+#### By _**Red Williams**_
 
 #### _{Brief description of application}_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _VS Code_
+* _GitBash_
+* _Bootstrap_
 
 ## Description
 
-
+A website to host my Programming Portfolio
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Navigate to URL_
 
 
 
