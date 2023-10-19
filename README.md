@@ -2,7 +2,7 @@
 
 #### By _**Red Williams**_
 
-#### _{Brief description of application}_
+#### _My Portfolio_
 
 ## Technologies Used
 
@@ -29,4 +29,4 @@ A website to host my Programming Portfolio
 
 
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _10/20/23_ _G0blinC0de_
