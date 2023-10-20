@@ -17,7 +17,7 @@ A website to host my Programming Portfolio
 ## Setup/Installation Requirements
 
 * _Navigate to URL_
-*_https://g0blinc0de.github.io/RedPortfolio/_
+* _https://g0blinc0de.github.io/RedPortfolio/_
 
 
 

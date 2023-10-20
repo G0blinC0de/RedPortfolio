@@ -37,3 +37,9 @@
 #Topper {
     text-decoration: underline;
 }
+
+.boxed {
+    margin: 20px;
+    border: 4px purple;
+    padding: 6px;
+}
