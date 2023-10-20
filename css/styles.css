@@ -19,3 +19,7 @@
     font-weight: bold;
     font-style: normal;
 }
+
+.Num {
+    list-style: upper-roman;
+}
