@@ -19,6 +19,7 @@
     font-style: normal;
     border: 5px solid black;
     display: inline-block;
+    padding: 5px;
 }
 
 .Num {
@@ -44,4 +45,5 @@
 .box1 {
     border: 5px solid black;
     display: inline-block;
+    padding-block: 5px;
 }
