@@ -23,8 +23,8 @@ A website to host my Programming Portfolio
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+
+
 
 ## License
 

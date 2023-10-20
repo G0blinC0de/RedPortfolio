@@ -26,6 +26,7 @@
     list-style: upper-roman;
 }
 
+/* background banner */
 .bgb {
     background-color: blueviolet;
     color: black;
@@ -37,11 +38,13 @@
     flex-wrap: wrap;
 }
 
+/*used on the banner */
 .Topper {
     text-decoration: underline;
     display: inline-block;
 }
 
+/* Puts a simple box around something */
 .box1 {
     border: 5px solid black;
     display: inline-block;
