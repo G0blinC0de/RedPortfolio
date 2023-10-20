@@ -34,12 +34,16 @@
     flex-wrap: wrap;
 }
 
-#Topper {
+.Topper {
     text-decoration: underline;
+    display: inline-block;
 }
 
 .boxed {
     margin: 20px;
-    border: 4px purple;
+    border: purple;
+    border-width: 4px;
     padding: 6px;
+    text-align: center;
+    margin-bottom: 10px;
 }
