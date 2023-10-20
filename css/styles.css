@@ -5,13 +5,12 @@
 
 .body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    float: left;
-    margin: auto;
+    text-align: center;
 }
 
 .img {
-    width: 20%;
-    float: left;
+    width: 30%;
+    float: inline-start;
     margin: auto;
 }
 
@@ -22,4 +21,19 @@
 
 .Num {
     list-style: upper-roman;
+}
+
+.bgb {
+    background-color: blueviolet;
+    color: black;
+    margin-top: auto;
+}
+
+.column {
+    width: 50%;
+    flex-wrap: wrap;
+}
+
+#Topper {
+    text-decoration: underline;
 }
