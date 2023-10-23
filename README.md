@@ -23,7 +23,7 @@ A website to host my Programming Portfolio
 
 ## Known Bugs
 
-
+* Currently working on centering information
 
 
 ## License
