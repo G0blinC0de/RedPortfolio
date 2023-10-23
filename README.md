@@ -8,7 +8,8 @@
 
 * _VS Code_
 * _GitBash_
-* _Bootstrap_
+* _HTML_
+* _CSS_
 
 ## Description
 
